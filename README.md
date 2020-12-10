@@ -1,5 +1,5 @@
 # LanChat
-Simple gui chatting application for computer on same lan
+Simple GUI chatting application for computer on same lan
 
 LAN CHAT is a simple chat app with simple functionality and simple GUI.This app can be only used on environment where 2 PC are on the  same network .
 DIRECTION TO USE
